@@ -3,6 +3,10 @@
 Work from two doctoral econometrics sequences — the Stockholm University Ph.D. programme
 (Econometrics I–II, 2024) and the Yale Ph.D. sequence (Econometrics III–IV, 2025–26).
 
+Every file here is my own write-up. The Yale write-ups restate each problem before solving it;
+the Stockholm ones answer without restating, so they read alongside the course problem sets.
+No lecture slides, official or suggested solutions, syllabi or textbooks are hosted here.
+
 ## `stockholm/` — Stockholm University, Ph.D. programme in economics
 
 ### `econometrics-i/` — EC38002, Spring 2024 (Profs. Mitchell Downey and Markus Jäntti)
@@ -20,14 +24,22 @@ difference-in-differences with staggered adoption. Taught from Angrist and Pisch
 
 ## `yale/` — Yale University, Ph.D. sequence
 
+Taken during a predoctoral year at the Tobin Center for Economic Policy.
+
+### `econometrics-iii/` — ECON 5552, Fall 2025 (Prof. Yuichi Kitamura) — audited
+
+Five write-ups, 31 pp, completed at full workload while auditing.
+
 ### `econometrics-iv/` — ECON 5553, Econometrics of Dependent Data, Spring 2026 (Prof. Tim Christensen) — for credit, Honors
 
+Four write-ups, 25 pp, and two longer pieces:
+
 - `abgrs_presentation.pdf` — oral-examination presentation of Andrews, Barahona, Gentzkow,
-  Rambachan and Shapiro, "Causal Interpretation of Structural IV Estimands"
-  (*Quarterly Journal of Economics* 140(3), 2025).
+Rambachan and Shapiro, "Causal Interpretation of Structural IV Estimands"
+(*Quarterly Journal of Economics* 140(3), 2025).
 - `referee_report_bchl.pdf` — referee report, written to *Econometrica* guidelines, on Borusyak,
-  Chen, Hull and Lei, "Nonparametric Identification of Demand without Exogenous Product
-  Characteristics" (NBER Working Paper 34842).
+Chen, Hull and Lei, "Nonparametric Identification of Demand without Exogenous Product
+Characteristics" (NBER Working Paper 34842).
 
 ---
 
