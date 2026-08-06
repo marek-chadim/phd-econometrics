@@ -8,9 +8,6 @@ textbooks are hosted here.
 
 ## `stockholm/` — Stockholm University, Ph.D. programme in economics
 
-Third-cycle courses, graded Pass/Fail, taken concurrently with the M.Sc. at the Stockholm School
-of Economics and excluded from that degree's GPA.
-
 ### `econometrics-i/` — EC38002, Spring 2024 (Profs. Mitchell Downey and Markus Jäntti)
 
 Six write-ups, 26 pp. Probability and statistics; least-squares algebra; conditional expectations
