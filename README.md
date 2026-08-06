@@ -9,8 +9,7 @@ Work from two doctoral econometrics sequences — the Stockholm University Ph.D.
 
 Six write-ups, 26 pp. Probability and statistics; least-squares algebra; conditional expectations
 and the law of iterated expectations; asymptotic theory and inference; variance estimation under
-general error structures; GMM and constrained minimum distance. Taught from Bruce Hansen,
-*Econometrics* and *Probability and Statistics for Economists*.
+general error structures; GMM and constrained minimum distance. Taught from Bruce Hansen, *Probability and Statistics for Economists* and *Econometrics*.
 
 ### `econometrics-ii/` — EC38003, 2024 (Profs. Konrad Burchardi and David Schönholzer)
 
