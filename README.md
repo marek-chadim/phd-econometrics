@@ -17,7 +17,7 @@ general error structures; GMM and constrained minimum distance. Taught from Bruc
 Five write-ups, 21 pp. Potential outcomes and identification of the ATT; randomization inference
 and assignment probabilities; simulation and instrumental variables; SUTVA under spillovers;
 difference-in-differences with staggered adoption. Taught from Angrist and Pischke,
-*Mostly Harmless Econometrics*, and Imbens and Rubin.
+*Mostly Harmless Econometrics*, and Imbens and Rubin *Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction*.
 
 ## `yale/` — Yale University, Ph.D. sequence
 
