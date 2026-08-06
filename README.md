@@ -3,9 +3,6 @@
 Work from two doctoral econometrics sequences — the Stockholm University Ph.D. programme
 (Econometrics I–II, 2024) and the Yale Ph.D. sequence (Econometrics III–IV, 2025–26).
 
-**Own write-ups only.** No lecture slides, course problem sets, official solutions, syllabi or
-textbooks are hosted here.
-
 ## `stockholm/` — Stockholm University, Ph.D. programme in economics
 
 ### `econometrics-i/` — EC38002, Spring 2024 (Profs. Mitchell Downey and Markus Jäntti)
