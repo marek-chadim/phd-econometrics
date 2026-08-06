@@ -3,10 +3,6 @@
 Work from two doctoral econometrics sequences — the Stockholm University Ph.D. programme
 (Econometrics I–II, 2024) and the Yale Ph.D. sequence (Econometrics III–IV, 2025–26).
 
-Every file here is my own write-up. The Yale write-ups restate each problem before solving it;
-the Stockholm ones answer without restating, so they read alongside the course problem sets.
-No lecture slides, official or suggested solutions, syllabi or textbooks are hosted here.
-
 ### `econometrics-i/` — EC38002, Spring 2024 (Profs. Mitchell Downey and Markus Jäntti)
 
 Six write-ups, 26 pp. Probability and statistics; least-squares algebra; conditional expectations
