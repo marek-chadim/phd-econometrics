@@ -20,12 +20,11 @@ and assignment probabilities; simulation and instrumental variables; SUTVA under
 difference-in-differences with staggered adoption. Taught from Angrist and Pischke,
 *Mostly Harmless Econometrics*, and Imbens and Rubin *Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction*.
 
-### `econometrics-iii/` — ECON 5552, Fall 2025 (Prof. Yuichi Kitamura) — audited
+### `econometrics-iii/` — ECON 5552, Fall 2025 (Prof. Yuichi Kitamura) 
 
 Five write-ups, 31 pp, completed at full workload while auditing.
 
-### `econometrics-iv/` — ECON 5553, Econometrics of Dependent Data, Spring 2026 (Prof. Tim Christensen) — for credit, Honors
-
+### `econometrics-iv/` — ECON 5553, Econometrics of Dependent Data, Spring 2026 (Prof. Timothy Christensen) 
 Four write-ups, 25 pp, and two longer pieces:
 
 - `abgrs_presentation.pdf` — oral-examination presentation of Andrews, Barahona, Gentzkow,
