@@ -23,18 +23,24 @@ difference-in-differences with staggered adoption. Taught from Angrist and Pisch
 
 ### `yale/econometrics-iii/` — [ECON 5552](https://courses.yale.edu/?keyword=%20econometrics%20&srcdb=202503), Fall 2025 (Prof. Yuichi Kitamura)
 
-Five write-ups, 31 pp, completed at full workload while auditing. Nonparametric identification
-under endogeneity and selection; nonparametric and series regression, and their convergence
-properties; limited-dependent-variable models — probit, censored and Poisson regression; quantile
-instrumental variables; Kolmogorov–Smirnov and related distributional tests; the bootstrap,
-applied to Survey of Consumer Finances data.
+Five write-ups, 31 pp, completed at full workload while auditing. Parametric and nonparametric
+identification; asymptotic theory for nonlinear models; limited-dependent-variable models —
+probit, censored and Poisson regression; quantile instrumental variables; Kolmogorov–Smirnov and
+related distributional tests; the bootstrap and subsampling, applied to Survey of Consumer
+Finances data. The course runs from identification through asymptotics, maximum likelihood and
+GMM to set identification and high-dimensional methods. No required text; suggested references
+included van der Vaart, *Asymptotic Statistics*, Wasserman, *All of Nonparametric Statistics*,
+and Wainwright, *High-Dimensional Statistics*.
 
 ### `yale/econometrics-iv/` — [ECON 5553](https://courses.yale.edu/?keyword=%20econometrics%20&srcdb=202601), Econometrics of Dependent Data, Spring 2026 (Prof. Timothy Christensen)
 
 Four write-ups, 25 pp. Matching estimators and treatment effects; martingales, uniform
 integrability and tail sigma-algebras; pre-testing and the uniformity of inference; the Wold
 decomposition for stationary processes; stable convergence and Bartik instruments; limit theory
-for dyadic data and under two-way dependence; narrative identification. Plus two longer pieces:
+for dyadic data and under two-way dependence; narrative identification. A research-level course
+on dependent data, running from ergodic theory and martingales through time series, panels and
+structural VARs to network dependence. No assigned textbook; taught from the instructor's notes.
+Plus two longer pieces, both course requirements:
 
 - `abgrs_presentation.pdf` — oral-examination presentation of Andrews, Barahona, Gentzkow,
 Rambachan and Shapiro, "Causal Interpretation of Structural IV Estimands"
