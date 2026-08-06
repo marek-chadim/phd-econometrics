@@ -7,8 +7,6 @@ Every file here is my own write-up. The Yale write-ups restate each problem befo
 the Stockholm ones answer without restating, so they read alongside the course problem sets.
 No lecture slides, official or suggested solutions, syllabi or textbooks are hosted here.
 
-## `stockholm/` — Stockholm University, Ph.D. programme in economics
-
 ### `econometrics-i/` — EC38002, Spring 2024 (Profs. Mitchell Downey and Markus Jäntti)
 
 Six write-ups, 26 pp. Probability and statistics; least-squares algebra; conditional expectations
@@ -21,10 +19,6 @@ Five write-ups, 21 pp. Potential outcomes and identification of the ATT; randomi
 and assignment probabilities; simulation and instrumental variables; SUTVA under spillovers;
 difference-in-differences with staggered adoption. Taught from Angrist and Pischke,
 *Mostly Harmless Econometrics*, and Imbens and Rubin *Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction*.
-
-## `yale/` — Yale University, Ph.D. sequence
-
-Taken during a predoctoral year at the Tobin Center for Economic Policy.
 
 ### `econometrics-iii/` — ECON 5552, Fall 2025 (Prof. Yuichi Kitamura) — audited
 
