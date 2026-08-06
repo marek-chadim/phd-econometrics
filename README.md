@@ -24,8 +24,6 @@ difference-in-differences with staggered adoption. Taught from Angrist and Pisch
 
 ## `yale/` — Yale University, Ph.D. sequence
 
-Taken during a predoctoral year at the Tobin Center for Economic Policy.
-
 ### `econometrics-iv/` — ECON 5553, Econometrics of Dependent Data, Spring 2026 (Prof. Tim Christensen) — for credit, Honors
 
 - `abgrs_presentation.pdf` — oral-examination presentation of Andrews, Barahona, Gentzkow,
