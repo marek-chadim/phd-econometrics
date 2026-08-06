@@ -11,7 +11,7 @@ Six write-ups, 26 pp. Probability and statistics; least-squares algebra; conditi
 and the law of iterated expectations; asymptotic theory and inference; variance estimation under
 general error structures; GMM and constrained minimum distance. Taught from Bruce Hansen, *Probability and Statistics for Economists* and *Econometrics*.
 
-### `econometrics-ii/` — EC38003, 2024 (Profs. Konrad Burchardi and David Schönholzer)
+### `econometrics-ii/` — EC38003, Fall 2024 (Profs. Konrad Burchardi and David Schönholzer)
 
 Five write-ups, 21 pp. Potential outcomes and identification of the ATT; randomization inference
 and assignment probabilities; simulation and instrumental variables; SUTVA under spillovers;
